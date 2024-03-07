@@ -1,23 +1,23 @@
 {
     "data": [
         {
-            "imageUrl": "https://example.com/image1.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/earthwalls/main/thumb1.jpg",
             "text": "Description for image 1"
         },
         {
-            "imageUrl": "https://example.com/image2.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/earthwalls/main/thumb2.jpg",
             "text": "Description for image 2"
         },
         {
-            "imageUrl": "https://example.com/image3.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/earthwalls/main/thumb3.jpg",
             "text": "Description for image 3"
         },
         {
-            "imageUrl": "https://example.com/image4.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/earthwalls/main/thumb4.jpg",
             "text": "Description for image 4"
         },
         {
-            "imageUrl": "https://example.com/image5.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/earthwalls/main/thumb5.jpg",
             "text": "Description for image 5"
         }
     ]
