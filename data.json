@@ -1,24 +1,24 @@
 {
     "data": [
         {
-            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/earthwalls/main/thumb1.jpg",
-            "text": "Description for image 1"
+            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/livewalls/main/thumbnail1.png",
+            "text": "https://github.com/megasoft2020/livewalls/raw/main/1.mp4"
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/earthwalls/main/thumb2.jpg",
-            "text": "Description for image 2"
+            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/livewalls/main/thumbnail2.png",
+            "text": "https://github.com/megasoft2020/livewalls/raw/main/2.mp4"
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/earthwalls/main/thumb3.jpg",
-            "text": "Description for image 3"
+            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/livewalls/main/thumbnail3.png",
+            "text": "https://github.com/megasoft2020/livewalls/raw/main/3.mp4"
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/earthwalls/main/thumb4.jpg",
-            "text": "Description for image 4"
+            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/livewalls/main/thumbnail4.png",
+            "text": "https://github.com/megasoft2020/livewalls/raw/main/4.mp4"
         },
         {
-            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/earthwalls/main/thumb5.jpg",
-            "text": "Description for image 5"
+            "imageUrl": "https://raw.githubusercontent.com/megasoft2020/livewalls/main/thumbnail5.png",
+            "text": "https://github.com/megasoft2020/livewalls/raw/main/5.mp4"
         }
     ]
 }
